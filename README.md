@@ -107,9 +107,6 @@ Sistem ini dirancang untuk mengelola berbagai aspek perpustakaan digital, termas
    http://127.0.0.1:8000
    ```
 
-## 👤 Kontributor
-- [Nama Anda](https://github.com/Khf20)
-- [Kontributor Lainnya](https://github.com/username)
 
 ## ✨ Lisensi
 Proyek ini menggunakan lisensi **MIT**. Silakan cek file `LICENSE` untuk detail lebih lanjut.
