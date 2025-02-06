@@ -26,10 +26,10 @@ class DatabaseSeeder extends Seeder
 
         Perpustakaan::create([
             'nama_perpustakaan' => 'Perpustakaan SMK Antartika 1 Sidoarjo',
-            'nama_pustakawan' => 'Mulyono',
+            'nama_pustakawan' => 'Bapak Budi',
             'alamat' => 'Jalan Raya Siwalan Panji, Bedrek, Siwalanpanji, Kec. Sidoarjo, Kabupaten Sidoarjo, Jawa Timur 61252',
             'no_telp' => '0318962851',
-            'email' => 'antrek@gmail.com',
+            'email' => 'smks.antartika1.sda@gmail.com@gmail.com',
             'website' => 'www.smkantartika1sda.sch.id',
             'keterangan' => 'Aplikasi Perpustakaan Smk Antartika 1 Sidoarjo.',
         ]);
